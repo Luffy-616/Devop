@@ -1,8 +1,7 @@
 trigger:
 - master
 
-pool:
-  name: A1238
+pool: Pipeline
 
 steps:
 - task: Maven@3
